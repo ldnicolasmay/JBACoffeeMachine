@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JBACoffeeMachine.iml" filepath="$PROJECT_DIR$/.idea/modules/JBACoffeeMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JBACoffeeMachine-build.iml" filepath="$PROJECT_DIR$/.idea/modules/JBACoffeeMachine-build.iml" />
+    </modules>
+  </component>
+</project>
